@@ -1,7 +1,7 @@
 # quick-assets-with-vite
 Start building with VITE
-- can start building normal JS/SCSS 
-- can start building wp.blocks 
+- can start building react
+- can start using scss
 
     ```
 
