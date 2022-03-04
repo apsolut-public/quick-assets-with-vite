@@ -1,0 +1,25 @@
+{
+    "name": "ap-quick-assets",
+    "version": "1.0.0",
+    "description": "=== AP Quick Assets === Contributors: apsolut Donate link: https://aleksandarperisic.com/ Tags: comments, spam Requires at least: 3.0.1 Tested up to: 3.4 Stable tag: 4.3 License: GPLv2 or later License URI: http://www.gnu.org/licenses/gpl-2.0.html",
+    "main": "test.js",
+    "scripts": {
+        "start": "vite",
+        "build": "vite build",
+        "preview": "vite preview --port 8283"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "@vitejs/plugin-react": "^1.2.0",
+        "sass": "^1.49.9",
+        "vite": "^2.8.6",
+        "vite-plugin-favicon": "^1.0.8"
+    },
+    "dependencies": {
+        "react": "^17.0.2",
+        "react-dom": "^17.0.2",
+        "save": "^2.4.0"
+    }
+}
